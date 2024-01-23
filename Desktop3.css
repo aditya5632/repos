@@ -1,0 +1,1255 @@
+.causes-of-various {
+  margin: 0 !important;
+  width: 839px;
+  height: 382px;
+  position: absolute;
+  top: 517px;
+  left: 29px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.subtract-icon5 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+}
+.raft4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 42px;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.about-us-news {
+  width: 750px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-maskgroup {
+  height: 6px;
+  width: 6px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-mediumpurple-100);
+}
+.home4 {
+  color: var(--color-black);
+}
+.home4,
+.platform4,
+.science4 {
+  position: relative;
+}
+.about-us5 {
+  white-space: nowrap;
+}
+.about-us5,
+.news4 {
+  position: relative;
+}
+.quality-therapy {
+  width: 607px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  max-width: 100%;
+  font-size: var(--text-paragraph-size);
+  color: var(--color-gray-200);
+}
+.contact-us2 {
+  position: relative;
+  font-size: var(--text-button-size);
+  font-family: var(--text-small);
+  color: var(--color-black);
+  text-align: center;
+}
+.addictions-pseudo {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-lgi) var(--padding-base)
+    var(--padding-7xl);
+  background-color: var(--color-mediumpurple-100);
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  white-space: nowrap;
+}
+.addictions-pseudo:hover {
+  background-color: var(--color-mediumpurple-200);
+}
+.frame-label,
+.raft-text1,
+.subtract-mask {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.raft-text1 {
+  width: 1920px;
+  border-bottom: 1px solid var(--color-whitesmoke);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-31xl) var(--padding-xl);
+  gap: var(--gap-3xs);
+  max-width: 101%;
+  flex-shrink: 0;
+}
+.frame-label,
+.subtract-mask {
+  align-items: flex-start;
+  padding: 0;
+}
+.subtract-mask {
+  width: 1905px;
+  justify-content: flex-start;
+  max-width: 107%;
+  flex-shrink: 0;
+}
+.frame-label {
+  align-self: stretch;
+  justify-content: flex-end;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-23xl);
+  color: var(--color-black);
+  font-family: var(--text-small);
+}
+.mask-group-icon3 {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  object-fit: cover;
+}
+.quality-theraphy1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 400;
+  font-family: inherit;
+}
+.et-harum-quidem1 {
+  align-self: stretch;
+  height: 72px;
+  position: relative;
+  font-size: var(--text-paragraph-size);
+  letter-spacing: -0.02em;
+  line-height: 180%;
+  color: var(--color-gray-200);
+  display: flex;
+  align-items: center;
+}
+.grouppseudo,
+.quality-therapy-maskgroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.grouppseudo {
+  align-self: stretch;
+  gap: var(--gap-xl);
+}
+.quality-therapy-maskgroup {
+  flex: 1;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  padding: var(--padding-11xl) var(--padding-12xl) var(--padding-11xl)
+    var(--padding-10xl);
+  gap: var(--gap-31xl);
+  min-width: 383px;
+  max-width: 100%;
+}
+.mask-group-icon4 {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  object-fit: cover;
+}
+.couple-therapy1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 400;
+  font-family: inherit;
+}
+.on-the-other1 {
+  align-self: stretch;
+  height: 72px;
+  position: relative;
+  font-size: var(--text-paragraph-size);
+  letter-spacing: -0.02em;
+  line-height: 180%;
+  color: var(--color-gray-200);
+  display: flex;
+  align-items: center;
+}
+.couple-therapy-group,
+.quality-therapy-maskgroup1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.couple-therapy-group {
+  align-self: stretch;
+  gap: var(--gap-xl);
+}
+.quality-therapy-maskgroup1 {
+  flex: 1;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  padding: var(--padding-11xl) var(--padding-12xl) var(--padding-11xl)
+    var(--padding-10xl);
+  gap: var(--gap-31xl);
+  min-width: 383px;
+  max-width: 100%;
+}
+.mask-group-icon5 {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  object-fit: cover;
+}
+.group-theraphy1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 400;
+  font-family: inherit;
+}
+.these-cases-are1 {
+  align-self: stretch;
+  height: 72px;
+  position: relative;
+  font-size: var(--text-paragraph-size);
+  letter-spacing: -0.02em;
+  line-height: 180%;
+  color: var(--color-gray-200);
+  display: flex;
+  align-items: center;
+}
+.group-theraphy-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.frame-group2,
+.frame-mask,
+.quality-therapy-maskgroup2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.quality-therapy-maskgroup2 {
+  flex: 1;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: var(--padding-11xl) var(--padding-12xl) var(--padding-11xl)
+    var(--padding-10xl);
+  gap: var(--gap-31xl);
+  min-width: 383px;
+}
+.frame-group2,
+.frame-mask {
+  flex-direction: row;
+}
+.frame-mask {
+  width: 1593px;
+  flex-wrap: wrap;
+  gap: var(--gap-11xl);
+}
+.frame-group2 {
+  align-self: stretch;
+}
+.quality-therapy-child {
+  width: 877.2px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -733px;
+  left: -660.4px;
+  height: 830.7px;
+  object-fit: contain;
+}
+.bipolar-disorder {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 400;
+  font-family: inherit;
+}
+.pseudo {
+  height: 13.9px;
+  width: 14.7px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 4.4px;
+  left: 39.7px;
+  border-radius: 10.97px;
+  background-color: var(--color-blueviolet);
+  z-index: 1;
+}
+.bipolar-disorder-parent,
+.quality-therapy-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.bipolar-disorder-parent {
+  padding: var(--padding-3xs);
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.quality-therapy-inner {
+  z-index: 1;
+}
+.mask-group,
+.quality-therapy1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.quality-therapy1 {
+  position: relative;
+}
+.mask-group {
+  padding: 0 var(--padding-34xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  font-size: var(--h4-size);
+  color: var(--color-blueviolet);
+}
+.addictions {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 149%;
+}
+.pseudo1 {
+  height: 13.9px;
+  width: 14.7px;
+  position: absolute;
+  margin: 0 !important;
+  right: 7.7px;
+  bottom: 10px;
+  border-radius: 10.97px;
+  background-color: var(--color-blueviolet);
+  z-index: 1;
+}
+.addictions-parent,
+.frame-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.addictions-parent {
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.frame-wrapper {
+  flex-direction: column;
+  z-index: 1;
+}
+.inner-conflict {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 149%;
+}
+.pseudo2 {
+  height: 13.9px;
+  width: 14.7px;
+  position: absolute;
+  margin: 0 !important;
+  top: -2.2px;
+  left: 14.9px;
+  border-radius: 10.97px;
+  background-color: var(--color-blueviolet);
+  z-index: 1;
+}
+.inner-conflict-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-3xs) var(--padding-9xs) var(--padding-3xs)
+    var(--padding-3xs);
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.depression-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.depression-frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-11xs) 0 0;
+  z-index: 1;
+}
+.frame-mask1,
+.frame-parent {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-mask1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.frame-parent {
+  width: 1058px;
+  height: 271px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 55px;
+  max-width: 100%;
+}
+.depression {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 149%;
+}
+.pseudo3 {
+  height: 13.9px;
+  width: 14.7px;
+  position: absolute;
+  margin: 0 !important;
+  top: 3.4px;
+  right: 13.4px;
+  border-radius: 10.97px;
+  background-color: var(--color-blueviolet);
+  z-index: 1;
+}
+.depression-parent,
+.textbipolardisorder-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.depression-parent {
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.textbipolardisorder-inner {
+  flex-direction: column;
+  z-index: 1;
+}
+.textbipolardisorder {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 144px;
+}
+.bipolar-disorder1 {
+  margin: 0;
+  height: 216px;
+  width: 241px;
+  position: relative;
+  font-size: var(--h3-size);
+  line-height: 113%;
+  font-weight: 400;
+  font-family: inherit;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 241px;
+  z-index: 1;
+}
+.bipolardisordergroup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frameconflictmanagement {
+  width: 529px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-height: 287px;
+  max-width: 100%;
+}
+.burnout {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 149%;
+}
+.groupburnout {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0.88%;
+  right: 0;
+  bottom: 1.05%;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.pseudo4 {
+  position: absolute;
+  height: 24.34%;
+  width: 13.61%;
+  top: 0;
+  right: 81.57%;
+  bottom: 75.66%;
+  left: 4.81%;
+  border-radius: 10.97px;
+  background-color: var(--color-blueviolet);
+  z-index: 1;
+}
+.groupburnout-parent {
+  height: 57.1px;
+  width: 108px;
+  position: relative;
+  z-index: 1;
+}
+.conflictmanagementframe {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.conflict-management {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 149%;
+}
+.pseudo5 {
+  height: 13.9px;
+  width: 14.7px;
+  position: absolute;
+  margin: 0 !important;
+  top: -4.35px;
+  right: 34.6px;
+  border-radius: 10.97px;
+  background-color: var(--color-blueviolet);
+  z-index: 1;
+}
+.textofferingbenefits {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.groupofferingservices {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.framegroupburnout,
+.groupofferingservices-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.groupofferingservices-wrapper {
+  align-items: center;
+  padding: var(--padding-9xs) 0 0;
+  z-index: 1;
+}
+.framegroupburnout {
+  width: 576px;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.groupdepressionframe,
+.groupdepressionframe-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.groupdepressionframe {
+  width: 891px;
+  flex-direction: column;
+  gap: var(--gap-12xs);
+}
+.groupdepressionframe-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.icoutline-arrow-right-alt-icon4 {
+  object-fit: contain;
+}
+.icoutline-arrow-right-alt-icon4,
+.icoutline-arrow-right-alt-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.icoutline-arrow-right-alt-container {
+  width: 88px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.causes-frame,
+.frame-container,
+.mask-group-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame-container {
+  width: 102px;
+  height: 46px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-mediumpurple-100);
+  display: none;
+  align-items: flex-start;
+  padding: var(--padding-5xl) var(--padding-13xl);
+}
+.causes-frame,
+.mask-group-parent {
+  display: flex;
+}
+.mask-group-parent {
+  width: 1088px;
+  align-items: flex-end;
+  padding: var(--padding-22xl) 0 0;
+  gap: 69px;
+  max-width: 103%;
+  flex-shrink: 0;
+}
+.causes-frame {
+  width: 1061px;
+  align-items: flex-start;
+  padding: 0;
+  max-width: 100%;
+}
+.causes-of-various1 {
+  height: 296px;
+  width: 659.6px;
+  position: relative;
+  font-size: var(--h1-size);
+  text-align: left;
+  display: none;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.causes-frame-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0 0 0 6px;
+  box-sizing: border-box;
+  min-height: 887px;
+  max-width: 100%;
+  z-index: 1;
+}
+.icoutline-arrow-right-alt-icon6 {
+  object-fit: contain;
+}
+.icoutline-arrow-right-alt-icon6,
+.icoutline-arrow-right-alt-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.arrow-frame1,
+.benefits-list1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.arrow-frame1 {
+  flex: 1;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-mediumpurple-100);
+  justify-content: space-between;
+  padding: var(--padding-5xl) var(--padding-13xl);
+  gap: var(--gap-xl);
+}
+.benefits-list1 {
+  width: 274px;
+  justify-content: flex-start;
+  padding: 0 61px;
+  box-sizing: border-box;
+}
+.main-frame1 {
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: 54px;
+  text-align: right;
+  font-size: var(--h6-size);
+}
+.bipolar-disorder-frame,
+.depression-text,
+.main-frame1 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.bipolar-disorder-frame {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 204px;
+  text-align: left;
+  font-size: var(--h4-size);
+  color: var(--color-black);
+  font-family: var(--text-small);
+}
+.depression-text {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-9xl);
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.subtract-icon6 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+}
+.raft5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 42px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.home-link-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.home5 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 149%;
+}
+.benefits4,
+.news5,
+.offering4,
+.testimonials4 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 180%;
+}
+.addictions-rectangle {
+  gap: var(--gap-3xs);
+}
+.addictions-rectangle,
+.conflict-management1,
+.ul10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ul10 {
+  padding: 0 var(--padding-11xs) 0.421875px 0;
+  font-size: var(--text-paragraph-size);
+  color: var(--color-gray-400);
+}
+.conflict-management1 {
+  gap: var(--gap-xl);
+}
+.science5 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 149%;
+}
+.benefits5,
+.examples2,
+.scientists2 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 180%;
+}
+.psychology-and-counseling2 {
+  gap: var(--gap-3xs);
+}
+.depression-text1,
+.psychology-and-counseling2,
+.ul11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ul11 {
+  padding: 0 var(--padding-11xs) 0.421875px 0;
+  font-size: var(--text-paragraph-size);
+  color: var(--color-gray-400);
+}
+.depression-text1 {
+  gap: var(--gap-xl);
+}
+.platform5 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 149%;
+}
+.case-studies6,
+.key-facts2,
+.offering5,
+.services-products2,
+.testimonials5 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 180%;
+}
+.benefits-examples-scientists {
+  gap: var(--gap-3xs);
+}
+.benefits-examples-scientists,
+.home-science-platform,
+.ul12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ul12 {
+  padding: 0 0 0.421875px;
+  font-size: var(--text-paragraph-size);
+  color: var(--color-gray-400);
+}
+.home-science-platform {
+  gap: var(--gap-10xl);
+}
+.about-us7 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 149%;
+}
+.awards2,
+.company-values2,
+.jobs2,
+.mission-vision2,
+.team2 {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 180%;
+}
+.mission-vision-team-jobs-award {
+  gap: var(--gap-3xs);
+}
+.about-us6,
+.mission-vision-team-jobs-award,
+.ul13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ul13 {
+  padding: 0 4.796875px 0.421875px 0;
+  font-size: var(--text-paragraph-size);
+  color: var(--color-gray-400);
+}
+.about-us6 {
+  gap: var(--gap-xl);
+}
+.press-kit2,
+.resources3 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 149%;
+}
+.press-kit2 {
+  font-size: var(--text-paragraph-size);
+  letter-spacing: -0.02em;
+  line-height: 180%;
+  color: var(--color-gray-400);
+}
+.div15,
+.div16,
+.resources-parent {
+  display: flex;
+  align-items: flex-start;
+}
+.resources-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.div15,
+.div16 {
+  flex-direction: row;
+  max-width: 100%;
+}
+.div16 {
+  width: 957px;
+  justify-content: flex-start;
+  padding: 0 1.3125px 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-71xl);
+  font-size: var(--h6-size);
+}
+.div15 {
+  width: 1452px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.psychology-and-counseling3 {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 124.5%;
+  display: inline-block;
+  max-width: 100%;
+}
+.svg-icon6,
+.svg-icon7,
+.svg-icon8 {
+  height: 20.6px;
+  width: 20.6px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 21px;
+}
+.div17,
+.ul14 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.div17 {
+  width: 1452px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--text-small-size);
+}
+.desktop-3,
+.footer-frame1,
+.footer2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.footer2 {
+  width: 1778px;
+  height: 437px;
+  background-color: var(--color-black);
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  padding: var(--padding-81xl) var(--padding-xl) var(--padding-31xl);
+  box-sizing: border-box;
+  max-width: 102%;
+  text-align: left;
+  font-size: var(--font-size-23xl);
+  color: var(--color-white);
+  font-family: var(--text-small);
+}
+.desktop-3,
+.footer-frame1 {
+  align-items: flex-start;
+}
+.footer-frame1 {
+  align-self: stretch;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  gap: var(--gap-8xl);
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--h1-size);
+  color: var(--color-black);
+  font-family: var(--text-small);
+}
+@media screen and (max-width: 1500px) {
+  .quality-therapy {
+    display: none;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .mask-group-parent {
+    gap: var(--gap-15xl);
+    padding-top: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .bipolar-disorder-frame {
+    gap: 102px;
+  }
+  .div16 {
+    gap: var(--gap-26xl);
+  }
+  .div15,
+  .div16 {
+    flex-wrap: wrap;
+  }
+  .footer2 {
+    height: auto;
+  }
+}
+@media screen and (max-width: 850px) {
+  .causes-of-various {
+    font-size: var(--font-size-39xl);
+  }
+  .quality-therapy {
+    gap: var(--gap-6xl);
+  }
+  .quality-theraphy1 {
+    font-size: var(--font-size-10xl);
+  }
+  .quality-therapy-maskgroup {
+    gap: var(--gap-6xl);
+    min-width: 100%;
+  }
+  .couple-therapy1 {
+    font-size: var(--font-size-10xl);
+  }
+  .quality-therapy-maskgroup1 {
+    gap: var(--gap-6xl);
+    min-width: 100%;
+  }
+  .group-theraphy1 {
+    font-size: var(--font-size-10xl);
+  }
+  .quality-therapy-maskgroup2 {
+    gap: var(--gap-6xl);
+    min-width: 100%;
+  }
+  .bipolar-disorder {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-parent {
+    gap: var(--gap-8xl);
+  }
+  .textbipolardisorder {
+    flex: 1;
+  }
+  .bipolar-disorder1 {
+    font-size: var(--font-size-32xl);
+    line-height: 58px;
+    flex: 1;
+  }
+  .bipolardisordergroup,
+  .conflictmanagementframe {
+    flex-wrap: wrap;
+  }
+  .mask-group-parent {
+    gap: var(--gap-mid);
+  }
+  .causes-of-various1 {
+    font-size: var(--font-size-39xl);
+  }
+  .main-frame1 {
+    gap: var(--gap-8xl);
+  }
+  .bipolar-disorder-frame {
+    gap: 51px;
+  }
+  .raft5 {
+    font-size: var(--font-size-15xl);
+    line-height: 34px;
+  }
+  .div16 {
+    gap: var(--gap-3xl);
+  }
+  .div17 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .causes-of-various {
+    font-size: var(--font-size-24xl);
+  }
+  .quality-theraphy1 {
+    font-size: var(--font-size-3xl);
+  }
+  .et-harum-quidem1 {
+    font-size: var(--text-small-size);
+    line-height: 29px;
+  }
+  .couple-therapy1 {
+    font-size: var(--font-size-3xl);
+  }
+  .on-the-other1 {
+    font-size: var(--text-small-size);
+    line-height: 29px;
+  }
+  .group-theraphy1 {
+    font-size: var(--font-size-3xl);
+  }
+  .these-cases-are1 {
+    font-size: var(--text-small-size);
+    line-height: 29px;
+  }
+  .bipolar-disorder {
+    font-size: var(--font-size-3xl);
+  }
+  .mask-group {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .addictions,
+  .depression,
+  .inner-conflict {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .bipolar-disorder1 {
+    font-size: var(--font-size-19xl);
+    line-height: 43px;
+  }
+  .burnout,
+  .conflict-management {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .mask-group-parent {
+    padding-top: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .causes-of-various1 {
+    font-size: var(--font-size-24xl);
+  }
+  .benefits-list1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .bipolar-disorder-frame {
+    gap: var(--gap-6xl);
+  }
+  .raft5 {
+    font-size: var(--font-size-6xl);
+    line-height: 25px;
+  }
+  .home5 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .benefits4,
+  .news5,
+  .offering4,
+  .science5,
+  .testimonials4 {
+    font-size: var(--text-small-size);
+    line-height: 29px;
+  }
+  .science5 {
+    font-size: var(--font-size-lgi);
+  }
+  .benefits5,
+  .examples2,
+  .platform5,
+  .scientists2 {
+    font-size: var(--text-small-size);
+    line-height: 29px;
+  }
+  .platform5 {
+    font-size: var(--font-size-lgi);
+  }
+  .about-us7,
+  .case-studies6,
+  .key-facts2,
+  .offering5,
+  .services-products2,
+  .testimonials5 {
+    font-size: var(--text-small-size);
+    line-height: 29px;
+  }
+  .about-us7 {
+    font-size: var(--font-size-lgi);
+  }
+  .awards2,
+  .company-values2,
+  .jobs2,
+  .mission-vision2,
+  .team2 {
+    font-size: var(--text-small-size);
+    line-height: 29px;
+  }
+  .press-kit2,
+  .resources3 {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .press-kit2 {
+    font-size: var(--text-small-size);
+  }
+  .footer2 {
+    padding-top: var(--padding-46xl);
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
